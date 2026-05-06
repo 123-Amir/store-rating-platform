@@ -81,7 +81,7 @@ The goal of this project was to implement:
 ## ▶️ Run Locally
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/store-rating-platform.git
+git clone https://github.com/123-Amir/store-rating-platform.git
 
 2️⃣ Install dependencies
 npm install
